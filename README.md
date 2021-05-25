@@ -1,2 +1,2 @@
 # first-repo
-Firtst GIT project
+First GIT project
